@@ -82,7 +82,3 @@ def predict():
     maind['predictions'] = result
 
     return render_template('index.html', maind=maind)
-
-
-if __name__ == "__main__":
-    app.run(debug=True)
