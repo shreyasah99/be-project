@@ -1,6 +1,6 @@
-The app is deployed to Heroku, and can be found at this [URL](https://bank-churn-predictions.herokuapp.com/)
-
-Our full presentation deck [can be found here](https://docs.google.com/presentation/d/1AiL9Zo9WBySLQkjjMcIHuZp4wEC9UnLtXjSaclaICBE/edit?usp=sharing).
+The app is deployed to Heroku, and can be found at this [URL](https://shreyas-jawad-austosh-be-proj.herokuapp.com/)
+ ht
+Our full presentation deck [can be found here](https://docs.google.com/presentation/d/1ZrN5ApLE9yNYBhrr8zfaK2PU_grshLSI/edit#slide=id.p12).
 
 # Churn Modelling - How to predict if a bank’s customer will stay or leave the bank
 
@@ -42,5 +42,9 @@ Finally, using Flask and HTML/CSS, we created the user-facing app to add informa
 
 
 For a deeper dive into our analysis and process, take a look at [our full presentatio](https://docs.google.com/presentation/d/1AiL9Zo9WBySLQkjjMcIHuZp4wEC9UnLtXjSaclaICBE/edit?usp=sharing)n.
+
+## Credit
+
+-https://github.com/zunicd/Bank-Churn-Prediction 
 
  
